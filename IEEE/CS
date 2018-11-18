@@ -1,0 +1,15 @@
+#İşlem Programına Hoşheldiniz
+"""Çalıştırıldığında toplama, çıkarma, çarpma, bölme, mod alma işlemlerinden birini seçip yapabilen bir program"""
+a=int(input("Bir sayı giriniz:"))
+b=int(input("Bir sayı daha giriniz:"))
+input("Bir işlem seçiniz +/-/Çarpma/Bölme")
+cevap=input()
+if cevap==("+"):
+    print(a+b)
+if cevap==("-"):
+    print(a-b)
+if cevap==("Çarpma"):
+    print(a*b)
+if cevap==("Bölme"):
+    print(a/b)
+    
